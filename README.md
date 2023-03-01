@@ -46,4 +46,4 @@ Your output will look simialr to:
 
 ## Questions
 
-For all of questions please open an Issue and I'd be happy to help.
+For all of questions please open an **[Issue](https://github.com/israellandes/wp-to-hugo-exporter/issues)** and I'd be happy to help.
