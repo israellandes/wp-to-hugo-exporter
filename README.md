@@ -1,4 +1,4 @@
-# WordPress to Hugo Exporter Script
+# WordPress to Hugo Exporter Bash Script
 
 Hugo a static site generator written in Bash
 
@@ -12,6 +12,7 @@ One-script install and complelation of WordPress plugin that converts all posts,
 
 - Ubuntu
 - Must have wordpress directory installed at '**/var/www/wordpress/**'
+- Tested PHP-fpm 8.0
 
 ## Usage
 
