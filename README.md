@@ -2,7 +2,7 @@
 
 Hugo a static site generator written in Bash
 
-This repo is utilizes [https://github.com/SchumacherFM/wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter)
+This repo utilizes [https://github.com/SchumacherFM/wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter)
 
 ## Features
 
