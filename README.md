@@ -11,11 +11,11 @@ One-script install and complelation of WordPress plugin that converts all posts,
 ## Requirements
 
 - Ubuntu
-- Must have wordpress directory installed at /var/www/wordpress/
+- Must have wordpress directory installed at '**/var/www/wordpress/**'
 
 ## Usage
 
-Simply run the script and output will appear in home directory '~/hugo-export/' :
+Simply run the script and output will appear in home directory '**~/hugo-export/**' :
 
 	chmod 777 ./wp-to-hugo-export.sh
 	sudo ./wp-to-hugo-export.sh
