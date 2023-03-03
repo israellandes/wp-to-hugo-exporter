@@ -1,6 +1,6 @@
 # WordPress to Hugo Exporter Bash Script
 
-Hugo a static site generator written in Bash
+Export Wordpress to Hugo using a BashShell Script
 
 This repo utilizes [https://github.com/SchumacherFM/wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter)
 
